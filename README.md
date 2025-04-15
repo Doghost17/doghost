@@ -1,2 +1,2 @@
 # doghost
-Informasi seputar cryptocurrency 
+news from doghost
